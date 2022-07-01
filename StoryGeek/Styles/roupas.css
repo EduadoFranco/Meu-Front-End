@@ -1,0 +1,196 @@
+.flex ul{
+    display: block;
+}
+
+.flex ul li{
+    padding: 10px;
+    margin-left: 150px;
+}
+
+.imgprincipal{
+    margin-left: 280px;
+    margin-top: -506px;
+}
+
+.texttitulo{
+    margin-left: 840px;
+    margin-top: -510px;
+    font-size: 22px;
+    line-height: 25px;
+    font-family: "Lato",sans-serif;
+    font-weight: bold;
+
+}
+
+
+.valordesconto{
+    margin-left: 840px;
+    color: #969394;
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 400;
+   
+}
+
+
+.valorpreco{
+    color: #24255C;
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 27px;
+    margin-left: 840px;
+
+}
+
+
+.valorparcelas{
+    margin-left: 840px;
+    color: #969394;
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 400;
+    
+}
+
+.leraTamanho{
+    margin-left: 840px;
+
+}
+
+
+.tamanho{
+    margin-left: 840px;
+
+}
+
+.tamanho ul li{
+    padding: 20px;
+    color: #141542;
+}
+
+.addvalor{
+    margin-left: 840px;
+
+}
+
+.butaocomprar{
+    margin-left: 930px;
+    margin-top: -42px;
+}
+.butaocomprar button{
+    background-color: #33B159;
+    color: white;
+    height: 60px;
+    width: 288px;
+    border-radius: 10px;
+    
+}
+
+
+.cep{
+    padding-top: 20px;
+    margin-left: 840px;   
+}
+
+.cepcaixa{
+    margin-left: 840px;
+}
+
+
+.seta2{
+    margin-left: 1040px;
+    margin-top: -27px;
+    
+}
+
+
+.fret{
+    margin-top: 10px;
+    height: 65px;
+    width: 368px;
+    margin-left: 840px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #969394;
+      
+}
+
+.textfret{
+    margin-top: -5px;
+    margin-left: 25px;
+    color: black;
+    font-size: 12px;
+    padding-top: 15px;
+    font-family: "Lato",sans-serif;
+
+
+}
+
+.textfret2{
+    font-size: 12px;
+    margin-left: 25px;
+    margin-top: 5px;
+    color: black;
+    font-family: "Lato",sans-serif;
+
+
+
+}
+
+.valorfret{
+    margin-left: 280px;
+    margin-top: -35px;
+    color: green;
+    font-size: 16px;
+    font-family: "Lato",sans-serif;
+
+
+}
+
+.valorfret2{
+    margin-left: 280px;
+    margin-top: -35px;
+    color: #24255c;
+    font-size: 16px;
+    font-family: "Lato",sans-serif;
+}
+
+.ofret{
+    margin-top: 10px;
+}
+
+
+.descricao{
+    margin-left: 150px;
+    margin-top: 20px;
+    width: 1100px;
+    font-size: 12px;
+    color: black;
+    font-family: "Lato",sans-serif;
+
+}
+
+
+.fotomedidas{
+    margin-left: 150px;
+    
+}
+
+.desaque2{
+    text-align: center;
+    font-size: 22px;
+    font-family: "Lato",sans-serif;
+    color: black;
+    font-weight: bold;
+}
+
+.barra2{
+    width: 160px;
+    height: 4px;
+    border-radius: 3px;
+    background: #FC6133;
+    margin: 4px auto 15px;
+}
+
+
+
